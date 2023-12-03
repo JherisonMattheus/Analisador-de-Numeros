@@ -1,0 +1,25 @@
+body{
+    background: crimson;
+
+}
+header{
+    text-align: center;
+}
+section{
+    background: white;
+    border-radius: 10pt;
+    width: 500px;
+    text-align: auto;
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+}
+p.for{
+    text-align: left;
+}
+input#txtc{
+    background: azure;
+}
+footer{
+    text-align: center;
+}
